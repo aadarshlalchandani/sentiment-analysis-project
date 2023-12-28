@@ -1,0 +1,6 @@
+transformers
+torch==2.1.0
+accelerate>=0.20.1
+fastapi
+uvicorn
+nltk
