@@ -8,3 +8,15 @@
 
 ## Run the API
 `sh api.sh`
+
+## Model Deployment
+### Model can be deployed as:
+- Docker Container
+- Git Repository of Model API hosted on a cloud platform
+- Cloud Computer Server Application
+- Serverless Application (AWS Lambda)
+
+### Model Performance Monitoring:
+- Model API Requests per minute
+- Model Throughput
+- Server Resource Usage
