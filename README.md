@@ -1,5 +1,7 @@
 # sentiment-analysis-project
 
+## Data EDA and Model Fine-Tuning can be viewed in `sa_notebook.ipynb`
+
 ## Install dependencies
 `sh install.sh`
 
